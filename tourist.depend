@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655652878 source:c:\users\jeshiah\downloads\program design\tourist\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdio>
+
