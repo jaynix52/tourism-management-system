@@ -1,6 +1,5 @@
-# tourist-management-system
-tourist management system in c++
-This program is based on a “Tourism management system”.
+# tourism-management-system
+This program is based on a Tourism management system in c++.
 ● This system allows users to book a trip based on their preferred location either from
 choosing a set package or a custom travel package.
 ● There are 7 travel packages available to choose from the “Book a package” option.
